@@ -1,0 +1,25 @@
+#image{
+    height: 400px;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    border: 5px solid white;
+    margin-top: 100px;
+
+  }
+
+  
+  #font{
+  font-family: 'Libre Baskerville', serif;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  }
+  #para{
+    color: white;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+  }
+  html{
+    background-color: black;
+  }
